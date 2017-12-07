@@ -16,9 +16,9 @@ class MainActivity : AppCompatActivity() {
 
         rv.layoutManager = LinearLayoutManager(this, LinearLayout.VERTICAL, false)
         val users = ArrayList<UserModel.User>()
-        users.add(UserModel.User("Paul", "Mr"))
-        users.add(UserModel.User("Jane", "Miss"))
-        users.add(UserModel.User("John", "Dr"))
+        users.add(UserModel.User("Curry", "Rustle up a spicy supper using fish, vegetables or meat and a blend of rich flavours."))
+        users.add(UserModel.User("Baked Potato", "Perfect your spud technique then pile our filling ideas high. "))
+        users.add(UserModel.User("Fish Pie", "Inspiration for a mash-topped seafood bake."))
 
 
 

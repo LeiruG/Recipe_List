@@ -10,7 +10,7 @@ import android.widget.ImageView
 import android.widget.TextView
 
 /**
- * Created by Lucem on 08/12/2017.
+ * Created by Lucem on 07/12/2017.
  */
 class Recipe  : AppCompatActivity(){
     companion object {

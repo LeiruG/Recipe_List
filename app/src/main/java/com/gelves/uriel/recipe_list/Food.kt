@@ -4,7 +4,7 @@ import android.os.Parcel
 import android.os.Parcelable
 
 /**
- * Created by Lucem on 08/12/2017.
+ * Created by Lucem on 07/12/2017.
  */
 data class Food  (val q: String,
                   val w: String,

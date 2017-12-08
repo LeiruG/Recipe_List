@@ -12,7 +12,62 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/fishpie" />
 
+        <TextView
+            android:id="@+id/textView"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next level fish pie" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:text="  Ingredients:
+             150g butter
+             1 shallot, finely chopped
+             400g shell-on raw prawns, peeled, heads and
+             shells kept for stock
+             400g smoked haddock, skinned and
+             trimmed (reserve these), flesh diced into large chunks
+             1 bay leaf
+             1 star anise
+             small splash Pernod (optional)
+             150ml white wine
+             1.2l whole milk
+             1 tsp vegetable bouillon powder or
+             1 vegetable stock cube
+             60g plain flour
+             200ml low fat crème fraîche
+             400g skinless white fish fillet, diced into large chunks
+             200g salmon fillet, diced into large chunks
+             2 tbsp capers, drained and finely chopped
+             1 lemon, juiced
+             1½ kg King Edward potatoes
+             4 eggs (optional)
+             Gruyère or medium cheddar
+             40g pack ready salted crisps
+             spinach, peas or watercress, to serve" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Method
+1. Heat 25g of the butter in a shallow pan and sizzle the shallot for 2 mins. Add the prawn heads, shells and smoked haddock skin and trimmings, turn up the heat and cook for 5 mins until they start to brown. Throw in the bay and star anise, then splash in the pernod if using and then the wine. Boil everything down until practically evaporated, then pour over 1 litre of milk and sprinkle in the vegetable bouillon. Simmer everything for 15 mins, turn off the heat, crush the shells with a potato masher and strain into a jug.
+2. Clean out the pan and melt 60g of butter, stir in the flour so you have a sandy paste and cook for 2 mins on a low heat. Gradually stir in the flavoured milk, then the crème fraîche, and simmer gently to make a very thick sauce. Season to taste. Turn off the heat and gently fold through all the fish and prawns, capers and lemon juice. Scrape into a large buttered baking dish.
+3. Heat oven to 220C/200C fan/gas 8. Bring the potatoes to the boil in a large pan of water, add the eggs and simmer for 8 mins. Scoop out the eggs, put in a bowl of cold water to cool, then peel, halve and push into the sauce. Drain the potatoes and mash with the remaining milk and butter. Spread or pipe the mash over the pie. Sprinkle with gruyère and/or crush over crisps. Put the pie on a baking tray and cook for 35 mins until golden and just bubbling over. Leave to sit for at least 10 mins before eating with buttered spinach, peas or watercress." />
 
     </android.support.v7.widget.LinearLayoutCompat>
 
